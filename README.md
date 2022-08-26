@@ -26,7 +26,7 @@
 
 * Apa itu version Control sistem ?
 * Apa itu Git ?
-* Development, staging dan production aplikasi Nodejs dengan Git
-* Development, staging dan production aplikasi Python dengan Git
-* Development, staging dan production aplikasi Golang dengan Git
+* Interaksi aplikasi Nodejs dengan Git
+* Interaksi aplikasi Python dengan Git
+* Interaksi aplikasi Golang dengan Git
 
