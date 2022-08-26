@@ -1,7 +1,6 @@
 # DevOps-bootcamp
 
 # Stage 1 
-## Week 1
 ### 1. [Fundamental DevOps](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task)
 
 * Apa itu DevOps? 
@@ -23,5 +22,11 @@
 * [instalasi PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)
 * Membuat aplikasi tersebut berjalan di server maupun di web browser
 
-### 4. 
+### 4. Version Control Sistem Dengan Git
+
+* Apa itu version Control sistem ?
+* Apa itu Git ?
+* Development, staging dan production aplikasi Nodejs dengan Git
+* Development, staging dan production aplikasi Python dengan Git
+* Development, staging dan production aplikasi Golang dengan Git
 
