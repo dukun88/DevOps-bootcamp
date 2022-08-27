@@ -10,15 +10,15 @@
 
 ### 2. [Basic Shell and Computer Networking](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking)
 
-* Basic Shell atau Cli Linux
+* [Basic Shell atau Cli Linux] (https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#computer-network)
 * [konfigurasi IP server Dari IP Lama Ke IP Baru](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#mengganti-ip)
 * [instal Web server](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#menginstall-web-server-apache2)
 * [Konfigurasi Localtunnel Pada Web server](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#konfigurai-localtunnel-pada-apache2)
 
 ### 3. [Application In Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server)
 
-* Apa itu aplikasi?
-* Aplikasi sederhana dengan [NodeJS](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#nodejs)[python](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)dan [Golang](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)
+* [Apa itu aplikasi?]
+* Aplikasi sederhana dengan [NodeJS](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#nodejs),[python](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)dan [Golang](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)
 * [instalasi PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Application-In-Server#python3)
 * Membuat aplikasi tersebut berjalan di server maupun di web browser
 
