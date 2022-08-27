@@ -3,10 +3,10 @@
 # Stage 1 
 ### 1. [Fundamental DevOps](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps)
 
-* [Apa itu DevOps?](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#devops)
-* [Instalasi Virtual Machine](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#1-install-virtualbox-di-linux-ubuntu-2004)
-* [instalasi Ubuntu Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#2-install-ubuntu-server-di-virtualbox)
-* [Setting Ubuntu server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#3-instalasi-dan-setting-ubuntu-server-2204)
+* [Apa itu DevOps?](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps#devops)
+* [Instalasi Virtual Machine](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps#1-install-virtualbox-di-linux-ubuntu-2004)
+* [instalasi Ubuntu Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps#2-install-ubuntu-server-di-virtualbox)
+* [Setting Ubuntu server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps#3-instalasi-dan-setting-ubuntu-server-2204)
 
 ### 2. [Basic Shell and Computer Networking](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking)
 
