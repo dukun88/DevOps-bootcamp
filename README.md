@@ -10,7 +10,7 @@
 
 ### 2. [Basic Shell and Computer Networking](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking)
 
-* [Basic Shell atau Cli Linux](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#computer-network)
+* [Computer Network dan Shell linux](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#computer-network)
 * [konfigurasi IP server Dari IP Lama Ke IP Baru](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#mengganti-ip)
 * [instal Web server](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#menginstall-web-server-apache2)
 * [Konfigurasi Localtunnel Pada Web server](https://github.com/dukun88/DevOps-bootcamp/wiki/Basic-Shell-and-Computer-networking#konfigurai-localtunnel-pada-apache2)
