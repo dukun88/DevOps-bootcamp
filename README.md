@@ -3,7 +3,7 @@
 # Stage 1 
 ### 1. [Fundamental DevOps](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task)
 
-* Apa itu DevOps? 
+* [Apa itu DevOps?](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#devops)
 * [Instalasi Virtual Machine](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#1-install-virtualbox-di-linux-ubuntu-2004)
 * [instalasi Ubuntu Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#2-install-ubuntu-server-di-virtualbox)
 * [Setting Ubuntu server](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#3-instalasi-dan-setting-ubuntu-server-2204)
