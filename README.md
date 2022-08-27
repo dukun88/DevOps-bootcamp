@@ -24,7 +24,7 @@
 
 ### 4. [Version Control Sistem Dengan Git](https://github.com/dukun88/DevOps-bootcamp/wiki/Version-Control-System-(Git))
 
-* [Apa itu version Control sistem ?](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#version-control-system)
+* [Apa itu version Control sistem ?](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#Version-control-system)
 * [Apa itu Git ?](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#git)
 * [Interaksi aplikasi Nodejs dengan Git](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#nodejs-on-github)
 * [Interaksi aplikasi Python dengan Git](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#python-on-github)
