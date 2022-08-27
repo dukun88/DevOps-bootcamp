@@ -1,7 +1,7 @@
 # DevOps-bootcamp
 
 # Stage 1 
-### 1. [Fundamental DevOps](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task)
+### 1. [Fundamental DevOps](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps)
 
 * [Apa itu DevOps?](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#devops)
 * [Instalasi Virtual Machine](https://github.com/dukun88/DevOps-bootcamp/wiki/Fundamental-DevOps-Task#1-install-virtualbox-di-linux-ubuntu-2004)
