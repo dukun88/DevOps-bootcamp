@@ -30,9 +30,14 @@
 * [Interaksi aplikasi Python dengan Git](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#python-on-github)
 * [Interaksi aplikasi Golang dengan Git](https://github.com/dukun88/DevOps-bootcamp/wiki/Virtual-Control-System-(Git)#golang-on-github)
 
-### 5.[CI/CD With Cloudflare Pages](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages)
+### 5. [CI/CD With Cloudflare Pages](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages)
 
 * [Continuous Integration, Continuous Deployment](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages#cicd-continuous-integration-continuous-deployment)
 * [Cloudflares](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages#cloudflare-pages)
 * [CI/CD Sederhana](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages#set-up-cicd-sederhana-dengan-cloudflare-pages)
 
+### 6. [Manage Server Wiht Terminal]
+
+* [Terminal]
+* [Firewall]
+* [File Bash Sederhana]
