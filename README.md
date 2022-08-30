@@ -36,8 +36,9 @@
 * [Cloudflares](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages#cloudflare-pages)
 * [CI/CD Sederhana](https://github.com/dukun88/DevOps-bootcamp/wiki/CI-CD-With-Cloudflare-Pages#set-up-cicd-sederhana-dengan-cloudflare-pages)
 
-### 6. [Manage Server Wiht Terminal]
+### 6. [Manage Server Wiht Terminal](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal)
 
-* [Terminal]
-* [Firewall]
-* [File Bash Sederhana]
+* [Terminal](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#terminal)
+* [Monitoring](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#monitoring)
+* [Firewall](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#firewall)
+* [File Bash Sederhana](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#file-bash-sederhana)
