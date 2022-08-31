@@ -45,8 +45,8 @@
 
 ### 7. [Web Server And Load Balancing]()
 
-* [Web Server]
-* [Service Management]
-* [Reverse Proxy]
-* [Load Balancing]
-* [Contoh Project]
+* [Web Server](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#web-server)
+* [Service Management](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#service-management)
+* [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#reserve-proxy)
+* [Load Balancing](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#load-balancing)
+* [Contoh Project](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#contoh-project)
