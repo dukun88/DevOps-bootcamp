@@ -42,3 +42,11 @@
 * [Monitoring](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#monitoring)
 * [Firewall](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#firewall)
 * [File Bash Sederhana](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#file-bash-sederhana)
+
+### 7. [Web Server And Load Balancing]()
+
+* [Web Server]
+* [Service Management]
+* [Reverse Proxy]
+* [Load Balancing]
+* [Contoh Project]
