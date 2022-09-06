@@ -50,3 +50,17 @@
 * [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#reserve-proxy)
 * [Load Balancing](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#load-balancing)
 * [Contoh Project](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#contoh-project)
+
+
+# Stage 2
+
+### 1. [Cloud Computing With IDCH](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH)
+
+* [Cloud Computing](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#cloud-computing)
+* [Deploy Applikasi ke IDCH](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#deploy-applikasi-ke-idch)
+* [Menjalanya Dengan PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#menjalankan-applikasinya-dengan-pm2)
+* [Reverse Proxy Cloudflare](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#reverse-proxy-cloudflare)
+
+### 2. 
+
+
