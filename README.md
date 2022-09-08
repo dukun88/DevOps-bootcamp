@@ -61,13 +61,13 @@
 * [Menjalankanya Dengan PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#menjalankan-applikasinya-dengan-pm2)
 * [Reverse Proxy Cloudflare](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#reverse-proxy-cloudflare)
 
-### 2. [Manage database & Setup Backend]()
+### 2. [Manage database & Setup Backend](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend)
 
-* [Database]
-* [Manage Database (mysql)]
-* [Setup Backend (ORM sequelize)]
-* [SSL Certbot]
-* [Integrasi Frontend & Backend]
+* [Database](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend#database)
+* [Manage Database (mysql)](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend#manage-database-mysql)
+* [Setup Backend (ORM sequelize)](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend#setup-backend-sequilize)
+* [SSL Certbot](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend#ssl-certbot)
+* [Integrasi Frontend & Backend](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Database-&-Setup-Backend#integrasi-frontend--backend)
 
 
 
