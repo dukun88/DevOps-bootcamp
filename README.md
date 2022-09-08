@@ -58,9 +58,16 @@
 
 * [Cloud Computing](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#cloud-computing)
 * [Deploy Applikasi ke IDCH](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#deploy-applikasi-ke-idch)
-* [Menjalanya Dengan PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#menjalankan-applikasinya-dengan-pm2)
+* [Menjalankanya Dengan PM2](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#menjalankan-applikasinya-dengan-pm2)
 * [Reverse Proxy Cloudflare](https://github.com/dukun88/DevOps-bootcamp/wiki/Cloud-Computing-With-IDCH#reverse-proxy-cloudflare)
 
-### 2. 
+### 2. [Manage database & Setup Backend]()
+
+* [Database]
+* [Manage Database (mysql)]
+* [Setup Backend (ORM sequelize)]
+* [SSL Certbot]
+* [Integrasi Frontend & Backend]
+
 
 
