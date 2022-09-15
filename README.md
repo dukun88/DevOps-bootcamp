@@ -76,6 +76,12 @@
 * [Docker Compose](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker#docker-compose)
 * [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker#reverse-proxy)
 
-### 4. [Docker Swarm]
+### 4. [Docker Swarm](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm)
+
+* [Cara kerja](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm#cara-kerja-docker-swarm)
+* [Konfigurasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm#konfigurasi)
+* [Service](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm#membuat-dan-memecah-sebuah-service-aplikasi)
+
+### 5. [Jenkins]()
 
 
