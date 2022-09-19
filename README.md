@@ -82,6 +82,18 @@
 * [Konfigurasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm#konfigurasi)
 * [Service](https://github.com/dukun88/DevOps-bootcamp/wiki/Docker-Swarm#membuat-dan-memecah-sebuah-service-aplikasi)
 
-### 5. [Jenkins]()
+### 5. [Jenkins](https://github.com/dukun88/DevOps-bootcamp/wiki/Jenkins)
+
+* [Instalasi Jenkins](https://github.com/dukun88/DevOps-bootcamp/wiki/Jenkins#install-jenkins)
+* [Setup Jenkins](https://github.com/dukun88/DevOps-bootcamp/wiki/Jenkins#setup-jenkins)
+* [Script Jenkinsfile](https://github.com/dukun88/DevOps-bootcamp/wiki/Jenkins#membuat-script)
+* [Github Webhook](https://github.com/dukun88/DevOps-bootcamp/wiki/Jenkins#github-webhooks)
+
+### 6. [Monitoing Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Monitoring-Server) 
+
+* [Tool Monitoring](https://github.com/dukun88/DevOps-bootcamp/wiki/Monitoring-Server#tools-monitoring)
+* [Instalasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Monitoring-Server#installation)
+* [integrasi Server]()
+* [Dashboard]()
 
 
