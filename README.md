@@ -96,4 +96,7 @@
 * [integrasi Server]()
 * [Dashboard]()
 
+### 7. [Ansible]
 
+* [Installasi]
+* 
