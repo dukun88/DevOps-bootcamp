@@ -43,12 +43,12 @@
 * [Firewall](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#firewall)
 * [File Bash Sederhana](https://github.com/dukun88/DevOps-bootcamp/wiki/Manage-Server-With-Terminal#file-bash-sederhana)
 
-### 7. [Web Server And Load Balancing]()
+### 7. [Web Server And Load Balancing](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing)
 
-* [Web Server](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#web-server)
-* [Service Management](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#service-management)
-* [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#reserve-proxy)
-* [Load Balancing](https://github.com/dukun88/DevOps-bootcamp/wiki/_new#load-balancing)
+* [Web Server](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#web-server)
+* [Service Management](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#service-management)
+* [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#reserve-proxy)
+* [Load Balancing](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#load-balancing)
 * [Contoh Project](https://github.com/dukun88/DevOps-bootcamp/wiki/Web-Server-and-Load--balancing#contoh-project)
 
 
