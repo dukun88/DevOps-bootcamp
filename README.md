@@ -93,10 +93,12 @@
 
 * [Tool Monitoring](https://github.com/dukun88/DevOps-bootcamp/wiki/Monitoring-Server#tools-monitoring)
 * [Instalasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Monitoring-Server#installation)
-* [integrasi Server]()
-* [Dashboard]()
+* [Dashboard](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#monitoring-container)
 
-### 7. [Ansible]
 
-* [Installasi]
-* 
+### 7. [Ansible](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible)
+
+* [Cara Kerja](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#cara-kerja)
+* [Installasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#installasi)
+* [Project](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#project-ansible)
+* [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#reverse-proxy)
