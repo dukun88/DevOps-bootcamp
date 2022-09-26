@@ -102,3 +102,13 @@
 * [Installasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#installasi)
 * [Project](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#project-ansible)
 * [Reverse Proxy](https://github.com/dukun88/DevOps-bootcamp/wiki/Ansible#reverse-proxy)
+
+### 8. [Kubernetes](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes)
+
+* [Cara kerja](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#cara-kerja)
+* [Instasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#installasi)
+* [Inisialisasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#inisialisasi)
+* [Deploy App](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#deploy-application)
+
+## [FINAL TASK]
+
