@@ -110,5 +110,5 @@
 * [Inisialisasi](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#inisialisasi)
 * [Deploy App](https://github.com/dukun88/DevOps-bootcamp/wiki/Kubernetes#deploy-application)
 
-## [FINAL TASK]
+## [FINAL TASK](https://github.com/dukun88/DevOps-bootcamp/wiki/Final-Task)
 
